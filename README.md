@@ -5,7 +5,9 @@ The inspiration is a puzzle with 8 balls and a scale.This program calculates the
 Functions:
 
 Calculates the minimum number of weighings using mathematical formula:
+
 $`⌊log3(numberOfBalls-1)⌋+1 `$
+
 Takes the number of balls as input from the user.
 Displays the minimum number of weighings as output.
 Example of use:
