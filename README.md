@@ -26,6 +26,7 @@ Displays the minimum number of weighings as output.
 ### Example of use:
 
 Enter the number of balls: 8
+
 The minimum number of weighings is: 2
 
 
