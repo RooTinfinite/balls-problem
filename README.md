@@ -63,4 +63,4 @@ MIT License
 
 ###### Keywords:
 
-algorithm, binary search, counting, logic, math, minimum, numpy, optimization, programming, python, weighing
+algorithm, balls, puzzle, minimum, weighing
