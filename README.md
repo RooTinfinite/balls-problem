@@ -40,15 +40,15 @@ NumPy library
 <br />
 ### Installation:
 
-`
-pip install numpy
-`
+
+`pip install numpy`
+
 <br />
+
 ### Use:
 
-`
-Run python maincode.py
-`
+
+`Run python maincode.py`
 
 <br />
 
