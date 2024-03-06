@@ -34,6 +34,7 @@ The minimum number of weighings is: 2
 ### Requirements:
 
 Python 3.x
+
 NumPy library
 
 ### Installation:
