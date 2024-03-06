@@ -60,7 +60,3 @@ NumPy library
 MIT License
 
 
-
-###### Keywords:
-
-algorithm, balls, puzzle, minimum, weighing
