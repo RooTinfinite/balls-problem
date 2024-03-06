@@ -42,7 +42,7 @@ NumPy library
 
 `
 pip install numpy
-v
+`
 <br />
 ### Use:
 
