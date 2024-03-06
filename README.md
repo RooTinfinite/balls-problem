@@ -39,14 +39,16 @@ NumPy library
 
 <br />
 ### Installation:
-```
+
+`
 pip install numpy
-```
+v
 <br />
 ### Use:
-```
+
+`
 Run python maincode.py
-```
+`
 
 <br />
 
